@@ -1,0 +1,23 @@
+@media (max-width: 320px){
+	a{
+		display: none;
+	}
+
+	.imagen-completa{
+		height: 200px;
+	}
+
+	.columnas{
+		display: none;
+	}
+
+	.video{
+		background-color: white;
+		height: 200px;
+	}
+
+	.video iframe{
+		height: 200px;
+		width: 80%;
+	}
+}
