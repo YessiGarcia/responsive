@@ -14,11 +14,17 @@ nav{
 a{
 	text-decoration: none;
 	border:1px solid black;
-	width: 15%;
+	width: 17%;
 	height: 40%;
 	text-align: center;
 	background-color: white;
 	color: black;
+}
+
+nav img{
+	width: 5%;
+	height: 50%;
+	display:none;
 }
 
 .imagen-completa{

@@ -1,6 +1,11 @@
-@media (max-width: 320px){
+@media (max-width: 480px){
 	a{
 		display: none;
+	}
+
+	nav img{
+		display:inline;
+		margin-left: 80%;
 	}
 
 	.imagen-completa{
@@ -21,3 +26,5 @@
 		width: 80%;
 	}
 }
+
+
